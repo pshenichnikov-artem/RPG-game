@@ -1,0 +1,1 @@
+\Resource\Buttons\Play.pngC:\studies\КР_ИГРА\WpfApp1\WpfApp1\bin\Release\net6.0-windows
